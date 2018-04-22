@@ -1,15 +1,12 @@
 /**
  *
  */
-package com.dredom.springboot.domain;
-
-import javax.persistence.Entity;
+package com.dredom.springboot.rest.domain;
 
 /**
  * @author andre
  *
  */
-@Entity
 public enum Region {
     Central_California("Central California"), Northern_California("Northern California"),
     Southern_California("Southern California"), Varies("Varies");

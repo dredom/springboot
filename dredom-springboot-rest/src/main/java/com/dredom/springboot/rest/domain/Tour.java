@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.dredom.springboot.domain;
+package com.dredom.springboot.rest.domain;
 
 import java.io.Serializable;
 

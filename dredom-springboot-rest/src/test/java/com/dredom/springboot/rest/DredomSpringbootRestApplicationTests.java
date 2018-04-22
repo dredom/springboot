@@ -1,4 +1,4 @@
-package com.dredom.springboot.dredomspringbootrest;
+package com.dredom.springboot.rest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
